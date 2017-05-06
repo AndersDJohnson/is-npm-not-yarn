@@ -1,7 +1,7 @@
 {
   "name": "is-npm-not-yarn",
   "version": "1.0.0",
-  "description": "",
+  "description": "Detect if code is running as an npm script but not a yarn script.",
   "main": "index.js",
   "bin": {
     "is-npm-not-yarn": "cli.js"
@@ -10,6 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "try": "node try.js"
   },
+  "repository": "AndersDJohnson/is-npm-not-yarn",
   "keywords": [],
   "author": "Anders D. Johnson",
   "license": "ISC"

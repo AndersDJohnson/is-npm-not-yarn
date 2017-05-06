@@ -14,7 +14,7 @@ yarn add is-npm-not-yarn
 ## Use
 
 ### JS
-```
+```js
 var isNpmNotYarn = require('is-npm-not-yarn`)
 console.log(isNpmNotYarn) // true or false
 ```

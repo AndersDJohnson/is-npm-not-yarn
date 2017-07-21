@@ -4,7 +4,7 @@
 
 ## Install
 ```
-npm install is-npm-not-yarn
+npm install --save is-npm-not-yarn
 ```
 or
 ```

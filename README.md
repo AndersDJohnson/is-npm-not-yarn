@@ -2,6 +2,8 @@
 
 > Detect if code is running as an npm script but not a yarn script.
 
+Note: Use with `>= yarn@1` requires `>= is-npm-not-yarn@2`.
+
 ## Install
 ```
 npm install --save is-npm-not-yarn

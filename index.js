@@ -1,1 +1,3 @@
-module.exports = !!process.env.npm_execpath.match(/node_modules\/npm/g);
+var nex = process.env.npm_execpath
+module.exports = !!(nex && /node_modules\/npm/.test(nex))
+

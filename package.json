@@ -7,7 +7,7 @@
     "is-npm-not-yarn": "cli.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "( npm run try | grep true ) && ( yarn run try | grep false )",
     "try": "node try.js"
   },
   "repository": "AndersDJohnson/is-npm-not-yarn",

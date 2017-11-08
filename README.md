@@ -5,13 +5,9 @@
 Note: Use with `>= yarn@1` requires `>= is-npm-not-yarn@2`.
 
 ## Install
-```
-npm install --save is-npm-not-yarn
-```
-or
-```
-yarn add is-npm-not-yarn
-```
+
+[![npm install is-npm-not-yarn (copy)](https://copyhaste.com/i?t=npm%20install%20is-npm-not-yarn)](https://copyhaste.com/c?t=npm%20install%20is-npm-not-yarn "npm install is-npm-not-yarn (copy)")
+[![yarn add is-npm-not-yarn (copy)](https://copyhaste.com/i?t=yarn%20add%20is-npm-not-yarn)](https://copyhaste.com/c?t=yarn%20add%20is-npm-not-yarn "yarn add is-npm-not-yarn (copy)")
 
 ## Use
 

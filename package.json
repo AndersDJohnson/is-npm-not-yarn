@@ -13,5 +13,8 @@
   "repository": "AndersDJohnson/is-npm-not-yarn",
   "keywords": [],
   "author": "Anders D. Johnson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "slash": "^1.0.0"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "is-npm-not-yarn",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Detect if code is running as an npm script but not a yarn script.",
   "main": "index.js",
   "bin": {
